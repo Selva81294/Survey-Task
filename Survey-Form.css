@@ -1,0 +1,10 @@
+*{
+    margin: 10px;
+}
+.checked {
+    color: orange; 
+  }
+  .tab{
+    text-align: center; 
+  }
+  
